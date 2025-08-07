@@ -1,14 +1,24 @@
 {
   "name": "backend-webd-series",
   "version": "1.0.0",
-  "description": "This is backend  learning series.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Rajesh Sharma",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajeshSharma07/backend-WebD-Series.git"
+  },
+  "keywords": [],
+  "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajeshSharma07/backend-WebD-Series/issues"
+  },
+  "homepage": "https://github.com/rajeshSharma07/backend-WebD-Series#readme",
+  "description": "",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "mysql2": "^3.14.3"
   }
 }
